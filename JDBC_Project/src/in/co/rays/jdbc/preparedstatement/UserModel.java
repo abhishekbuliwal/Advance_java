@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import co.rays.util.JDBCDataSource;
+import in.co.rays.jdbc.util.JDBCDataSource;
 
 public class UserModel {
 
